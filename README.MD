@@ -1,0 +1,1 @@
+This repository was created for the purpose of completing the ADP task given by the lecturer: "Create a project and submit it to github"
